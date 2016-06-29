@@ -92,7 +92,7 @@ h1.middle {
 /* Extra small devices (phones, less than 768px) */
 @media only screen and (max-width : 768px) {
   h1 {
-    font-size: 3em;
+    font-size: 40px;
   }
   .quarter {
     padding: 20px;
