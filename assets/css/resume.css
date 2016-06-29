@@ -6,7 +6,7 @@ body {
   /*background: url('../images/geometry2.png') repeat;*/
     background: url('../images/geometry-BG.jpg') repeat;
   font-size: 16px;
-  padding: 20px 0px 0px;
+  padding: 20px 0px 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
